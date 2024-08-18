@@ -9,6 +9,15 @@
     padding: 250px 0;
     text-align: center;
   }
+
+/* Styles for mobile screens */
+@media (max-width: 480px) {
+    .hero-section {
+      background-size: contain; /* or `contain` to ensure the whole image fits */
+      background-position: top;
+      padding: 60px 0;
+    }
+  }
   
   .hero-content h1 {
     font-size: 3em;
