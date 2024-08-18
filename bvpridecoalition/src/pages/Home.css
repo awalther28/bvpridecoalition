@@ -1,0 +1,62 @@
+/* src/pages/Home.css */
+
+/* Hero Section */
+.hero-section {
+    background-image: url('../assests/BVPride_FinalLogo.png'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 250px 0;
+    text-align: center;
+  }
+  
+  .hero-content h1 {
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .hero-content p {
+    font-size: 1.5em;
+    margin-bottom: 30px;
+  }
+  
+  .btn-lg {
+    font-size: 1.2em;
+    padding: 10px 20px;
+  }
+  
+  /* Intro Text */
+  .intro-text h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  .intro-text p {
+    font-size: 1.2em;
+    margin-bottom: 40px;
+  }
+  
+  /* Featured Sections */
+  .container .row .col-md-4 {
+    margin-bottom: 30px;
+  }
+  
+  .container .row .col-md-4 h3 {
+    font-size: 1.8em;
+    margin-bottom: 15px;
+  }
+  
+  .container .row .col-md-4 p {
+    font-size: 1.1em;
+    margin-bottom: 20px;
+  }
+
+  .navbar {
+    margin-left: 20px;
+  }
+
+  .center {
+    align-items: center;
+  }
+  
