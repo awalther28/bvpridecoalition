@@ -17,9 +17,6 @@ function Navbar() {
           <li className="nav-item">
             <Link className="nav-link" to="/resources">Resources</Link>
           </li>
-          <li className="nav-item">
-            <a className="nav-link" href="https://calendar.google.com" target="_blank" rel="noopener noreferrer">Google Calendar</a>
-          </li>
         </ul>
       </div>
     </nav>
