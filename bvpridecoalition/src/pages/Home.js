@@ -15,7 +15,7 @@ function Home() {
       </div>
       <div className="intro-text text-center mt-5">
         <h2>About Us</h2>
-        <p>Our mission is to provide support, education, and advocacy for LGBTQIA+ individuals and their families.</p>
+        <p>Our mission is to promote a welcoming and inclusive culture to uplift our local LGBTQIA+ community.</p>
       </div>
 
       <div className="container mt-5">
